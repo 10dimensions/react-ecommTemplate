@@ -1,0 +1,1 @@
+export const url = "http://api.myjson.com/bins/kkmma";
